@@ -1,5 +1,7 @@
 # olympic-graph
-A graph containing info from Paris 2024 Olympic Games.
+A graph containing some data from Paris 2024 Olympic Games. Please note that the content from repository is for education purpose only to explore Neo4j Aura DB and Cypher Query language.
+
+The dataset used for this exercise is avalaible on Kaggle at the page: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/discussion?sort=hotness
 
 
 ## Steps to recreate the DB
@@ -121,5 +123,9 @@ RETURN a,r,c
 
 ```
 MATCH ()-[r:HAS_COUNTRY]->(c) WITH count(r) as Athletes, c.name AS Country WHERE Athletes > 200 RETURN Country, Athletes
+```
+
+```
+MATCH (c)<-[:HAS_COUNTRY]-(a:Athlete)-[r:HAS_WON_IN_PLACE_1]->(e:Event)-[:BELONGS_TO]->(s) RETURN c.name, count(r)
 ```
 
