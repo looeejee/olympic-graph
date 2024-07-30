@@ -17,18 +17,18 @@ FOR (a:Athlete)
 REQUIRE a.code IS UNIQUE;
 ```
 
-### Step-2: Create Movie Nodes
+### Step-2: Create Athletes Nodes
 
-We will start by creating the Movie Nodes using the movies.csv file in this repository
+We will start by creating the Movie Nodes using the atheletes.csv file in this repository
 
 ```
 LOAD CSV WITH HEADERS
-FROM 'https://raw.githubusercontent.com/looeejee/rotten_tomatoes_movies/main/movies.csv' AS row
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/athletes.csv' AS row
 MERGE (a:Athlete {code: row.code})
 SET
 a.name = row.name,
 a.gender = row.gender,
-a.height = toInteger(rrow.height),
+a.height = toInteger(row.height),
 a.weight = toInteger(row.weight),
 a.birth_date = date(row.birth_date),
 a.birth_place = row.birth_place,
@@ -40,31 +40,86 @@ a.education = a.education,
 a.reason = a.reason
 ```
 
-### Step-3: Create Critics Nodes
+### Step-3: Create Countries Nodes
 
-We will then create the Critics Nodes using the file critic_reviews.csv
-
-```
-LOAD CSV WITH HEADERS
-FROM 'https://raw.githubusercontent.com/looeejee/rotten_tomatoes_movies/main/critic_reviews.csv' AS row
-MERGE (c:Critic {name: row.criticName}) RETURN c
-```
-
-### Step-4: Create Relationship
-
-As a final step we weill create the Relationship (c:Critic)-[r:HAS_REVIEWED]->(m:Movie) using the file critic_review.csv
+We will then create the Country Nodes using the athletes.csv file
 
 ```
 LOAD CSV WITH HEADERS
-FROM 'https://raw.githubusercontent.com/looeejee/rotten_tomatoes_movies/main/critic_reviews.csv' AS row
-MATCH (c:Critic) WHERE c.name=row.criticName
-MATCH (m:Movie) WHERE m.movieId= row.movieId
-MERGE (c)-[r:HAS_REVIEWED]->(m)
-SET r.reviewId=row.reviewId,
-r.creationDate= date(row.creationDate),
-r.reviewUrl = row.reviewUrl,
-r.isFresh = toBoolean(row.isFresh),
-r.originalScore= row.originalScore,
-r.quote = row.quote,
-r.scoreSentiment = row.scoreSentiment
-RETURN c,m,r LIMIT 100
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/athletes.csv' AS row
+MERGE (c:Country {name: row.country}) 
+SET c.country_code= row.country_code
+RETURN c
+```
+
+
+### Step-3: Create Sport Nodes
+
+We will then create the Sport Nodes using the athletes.csv file
+
+```
+LOAD CSV WITH HEADERS
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/events.csv' AS row
+MERGE (s:Sport {name: row.sport}) 
+SET s.sport_code = row.sport_code,
+s.sport_tag = row.sport_tag,
+s.sport_url = row.sport_url
+RETURN s
+```
+
+### Step-4: Create Event Nodes
+LOAD CSV WITH HEADERS
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/events.csv' AS row
+MERGE (e:Event {name: row.event})
+RETURN e 
+
+
+
+### Step-4: Create Relationship **Event-Sport**
+
+In step we will create the Relationship (e:Event)-[r:BELONGS_TO]->(s:Sport) using the file events.csv
+
+```
+LOAD CSV WITH HEADERS
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/events.csv' AS row
+MATCH (e:Event) WHERE e.name=row.event
+MATCH (s:Sport) WHERE s.name= row.sport
+MERGE (e)-[r:BELONGS_TO]->(s)
+RETURN e,s,r LIMIT 100
+```
+
+### Step-5: Create Relationship **Athlete-Event**
+
+```
+LOAD CSV WITH HEADERS
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/medallists.csv' AS row
+MATCH (a:Athlete) WHERE a.name=row.name
+MATCH (e:Event) WHERE e.name=row.event
+CALL apoc.merge.relationship(a,
+  'HAS_WON_IN_PLACE_' + (row.medal_code),
+  {medal_date:date(row.medal_date)},
+  {},
+  e ,
+  {}
+) 
+YIELD rel
+RETURN a,rel,e
+```
+
+### Step-6: Create Relationship **Athlete-Country**
+
+```
+LOAD CSV WITH HEADERS
+FROM 'https://raw.githubusercontent.com/looeejee/olympic-graph/main/data/athletes.csv' AS row
+MATCH (a:Athlete) WHERE a.name=row.name
+MATCH (c:Country) WHERE c.name=row.country
+MERGE (a)-[r:HAS_COUNTRY]->(c)
+RETURN a,r,c
+```
+
+### EXAMPLE QUERIES
+
+```
+MATCH ()-[r:HAS_COUNTRY]->(c) WITH count(r) as Athletes, c.name AS Country WHERE Athletes > 200 RETURN Country, Athletes
+```
+
