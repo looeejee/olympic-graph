@@ -110,6 +110,23 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-07-29,Gold Medal,1,McINTOSH Summer,Female,Canada,CAN,Canada,,,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,2006-08-18,1967140
 2024-07-29,Silver Medal,2,GRIMES Katie,Female,United States,USA,United States,,,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,2006-01-08,1935909
 2024-07-29,Bronze Medal,3,WEYANT Emma,Female,United States,USA,United States,,,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,2001-12-24,1936001
+2024-07-30,Gold Medal,1,NAGASE Takanori,Male,Japan,JPN,Japan,,,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/fnl-000100--,1993-10-14,1896765
+2024-07-30,Silver Medal,2,GRIGALASHVILI Tato,Male,Georgia,GEO,Georgia,,,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/fnl-000100--,1999-12-01,1546651
+2024-07-30,Bronze Medal,3,LEE Joonhwan,Male,Korea,KOR,Korea,,,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/repf000100--,2002-06-19,1928079
+2024-07-30,Bronze Medal,3,MAKHMADBEKOV Somon,Male,Tajikistan,TJK,Tajikistan,,,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/repf000200--,1999-03-24,1570561
+2024-07-30,Gold Medal,1,LESKI Andreja,Female,Slovenia,SLO,Slovenia,,,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/fnl-000100--,1997-01-08,1980833
+2024-07-30,Silver Medal,2,AWITI ALCARAZ Prisca,Female,Mexico,MEX,Mexico,,,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/fnl-000100--,1996-02-20,1537287
+2024-07-30,Bronze Medal,3,AGBEGNENOU Clarisse,Female,France,FRA,France,,,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/repf000100--,1992-10-25,1891289
+2024-07-30,Bronze Medal,3,FAZLIU Laura,Female,Kosovo,KOS,Kosovo,,,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/repf000200--,2000-09-28,1550167
+2024-07-30,Gold Medal,1,HALES Nathan,Male,Great Britain,GBR,Great Britain,,,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1996-06-16,1904430
+2024-07-30,Silver Medal,2,QI Ying,Male,China,CHN,China,,,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1997-01-23,1913928
+2024-07-30,Bronze Medal,3,BROL CARDENAS Jean Pierre,Male,Guatemala,GUA,Guatemala,,,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1982-12-18,1958970
+2024-07-30,Gold Medal,1,WIFFEN Daniel,Male,Ireland,IRL,Ireland,,,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,2001-07-14,1539969
+2024-07-30,Silver Medal,2,FINKE Bobby,Male,United States,USA,United States,,,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,1999-11-06,1935902
+2024-07-30,Bronze Medal,3,PALTRINIERI Gregorio,Male,Italy,ITA,Italy,,,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,1994-09-05,1925630
+2024-07-30,Gold Medal,1,McKEOWN Kaylee,Female,Australia,AUS,Australia,,,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,2001-07-12,1946198
+2024-07-30,Silver Medal,2,SMITH Regan,Female,United States,USA,United States,,,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,2002-02-09,1935984
+2024-07-30,Bronze Medal,3,BERKOFF Katharine,Female,United States,USA,United States,,,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,2001-01-28,1935873
 2024-07-27,Gold Medal,1,CHANG Yani,Female,China,CHN,China,People's Republic of China,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,2001-12-07,1901539
 2024-07-27,Gold Medal,1,CHEN Yiwen,Female,China,CHN,China,People's Republic of China,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,1999-06-15,1901538
 2024-07-27,Silver Medal,2,BACON Sarah,Female,United States,USA,United States,United States of America,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,1996-09-20,1954159
@@ -247,3 +264,81 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-07-29,Bronze Medal,3,OIWA Yoshiaki,Male,Japan,JPN,Japan,Japan,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,1976-07-19,1946434
 2024-07-29,Bronze Medal,3,TOMOTO Kazuma,Male,Japan,JPN,Japan,Japan,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,1983-06-05,1946438
 2024-07-29,Bronze Medal,3,TANAKA Toshiyuki,Male,Japan,JPN,Japan,Japan,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,1985-02-02,1946428
+2024-07-30,Gold Medal,1,BILES Simone,Female,United States,USA,United States,United States of America,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,1997-03-14,1959861
+2024-07-30,Gold Medal,1,CAREY Jade,Female,United States,USA,United States,United States of America,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2000-05-27,1959819
+2024-07-30,Gold Medal,1,CHILES Jordan,Female,United States,USA,United States,United States of America,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2001-04-15,1959825
+2024-07-30,Gold Medal,1,LEE Sunisa,Female,United States,USA,United States,United States of America,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2003-03-09,1959866
+2024-07-30,Gold Medal,1,RIVERA Hezly,Female,United States,USA,United States,United States of America,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2008-06-04,1959814
+2024-07-30,Silver Medal,2,ANDREOLI Angela,Female,Italy,ITA,Italy,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2006-06-06,1560761
+2024-07-30,Silver Medal,2,D'AMATO Alice,Female,Italy,ITA,Italy,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2003-02-07,1551061
+2024-07-30,Silver Medal,2,ESPOSITO Manila,Female,Italy,ITA,Italy,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2006-11-02,1560762
+2024-07-30,Silver Medal,2,IORIO Elisa,Female,Italy,ITA,Italy,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2003-03-21,1560760
+2024-07-30,Silver Medal,2,VILLA Giorgia,Female,Italy,ITA,Italy,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2003-02-23,1560759
+2024-07-30,Bronze Medal,3,ANDRADE Rebeca,Female,Brazil,BRA,Brazil,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,1999-05-08,1953634
+2024-07-30,Bronze Medal,3,BARBOSA Jade,Female,Brazil,BRA,Brazil,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,1991-07-01,1953624
+2024-07-30,Bronze Medal,3,OLIVEIRA Lorrane,Female,Brazil,BRA,Brazil,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,1998-04-13,1953630
+2024-07-30,Bronze Medal,3,SARAIVA Flavia,Female,Brazil,BRA,Brazil,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,1999-09-30,1953620
+2024-07-30,Bronze Medal,3,SOARES Julia,Female,Brazil,BRA,Brazil,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,2005-08-23,1953626
+2024-07-30,Gold Medal,1,FIAMINGO Rossella,Female,Italy,ITA,Italy,Italy,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1991-07-14,1924585
+2024-07-30,Gold Medal,1,RIZZI Giulia,Female,Italy,ITA,Italy,Italy,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1989-06-20,1924588
+2024-07-30,Gold Medal,1,SANTUCCIO Alberta,Female,Italy,ITA,Italy,Italy,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1994-10-22,1924587
+2024-07-30,Gold Medal,1,NAVARRIA Mara,Female,Italy,ITA,Italy,Italy,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1985-07-18,1924586
+2024-07-30,Silver Medal,2,VITALIS Coraline,Female,France,FRA,France,France,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1995-05-09,1916182
+2024-07-30,Silver Medal,2,MALLO-BRETON Auriane,Female,France,FRA,France,France,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1993-10-11,1916183
+2024-07-30,Silver Medal,2,CANDASSAMY Marie-Florence,Female,France,FRA,France,France,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1991-02-26,1916184
+2024-07-30,Silver Medal,2,LOUIS-MARIE Alexandra,Female,France,FRA,France,France,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,1996-03-03,1916185
+2024-07-30,Bronze Medal,3,KNAPIK-MIAZGA Renata,Female,Poland,POL,Poland,Poland,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000200--,1988-07-15,1894213
+2024-07-30,Bronze Medal,3,SWATOWSKA-WENGLARCZYK Martyna,Female,Poland,POL,Poland,Poland,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000200--,1994-07-08,1894214
+2024-07-30,Bronze Medal,3,KLASIK Alicja,Female,Poland,POL,Poland,Poland,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000200--,2004-02-14,1894223
+2024-07-30,Bronze Medal,3,JARECKA Aleksandra,Female,Poland,POL,Poland,Poland,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000200--,1995-10-11,1894217
+2024-07-30,Gold Medal,1,POURI-LANE Risi,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2000-05-28,1926596
+2024-07-30,Gold Medal,1,MILLER Jorja,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2004-02-08,1926667
+2024-07-30,Gold Medal,1,WAAKA Stacey,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1995-11-03,1926592
+2024-07-30,Gold Medal,1,NUKU Manaia,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2002-09-03,1926629
+2024-07-30,Gold Medal,1,HIRINI Sarah,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1992-12-09,1926632
+2024-07-30,Gold Medal,1,BLYDE Michaela,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1995-12-29,1926635
+2024-07-30,Gold Medal,1,KING Tyla,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1994-07-01,1926644
+2024-07-30,Gold Medal,1,PAUL Mahina,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2001-04-19,1926676
+2024-07-30,Gold Medal,1,FELIX-HOTHAM Jazmin,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2000-07-02,1926634
+2024-07-30,Gold Medal,1,SETEFANO Theresa,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1995-02-25,1926647
+2024-07-30,Gold Medal,1,WOODMAN-WICKLIFFE Portia,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1991-07-12,1926646
+2024-07-30,Gold Medal,1,SAILI Alena,Female,New Zealand,NZL,New Zealand,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1998-12-13,1926593
+2024-07-30,Silver Medal,2,CROSSLEY Caroline,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1998-04-19,1960779
+2024-07-30,Silver Medal,2,APPS Olivia,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1998-12-01,1960762
+2024-07-30,Silver Medal,2,CORRIGAN Alysha,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1997-01-25,1960778
+2024-07-30,Silver Medal,2,HOGAN-ROCHESTER Asia,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1999-04-20,1960797
+2024-07-30,Silver Medal,2,DANIELS Chloe,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2003-04-27,1960781
+2024-07-30,Silver Medal,2,WILLIAMS Charity,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,1996-10-20,1960837
+2024-07-30,Silver Medal,2,SYMONDS Florence,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2002-05-20,1960826
+2024-07-30,Silver Medal,2,NORSTEN Carissa,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2003-11-07,1960812
+2024-07-30,Silver Medal,2,SCURFIELD Krissy,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2003-06-15,1960822
+2024-07-30,Silver Medal,2,BERMUDEZ Fancy,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2002-05-27,1960765
+2024-07-30,Silver Medal,2,LOGAN Piper,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2001-07-13,1960803
+2024-07-30,Silver Medal,2,WARDLEY Keyara,Female,Canada,CAN,Canada,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,2000-01-27,1960834
+2024-07-30,Bronze Medal,3,RAMSEY Ariana,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,2000-03-25,1950500
+2024-07-30,Bronze Medal,3,MAHER Ilona,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1996-08-12,1950498
+2024-07-30,Bronze Medal,3,CANETT Kayla,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1998-04-29,1950485
+2024-07-30,Bronze Medal,3,SULLIVAN Sammy,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1998-05-22,1950504
+2024-07-30,Bronze Medal,3,KELTER Alev,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1991-03-21,1950494
+2024-07-30,Bronze Medal,3,DOYLE Lauren,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1991-02-23,1950487
+2024-07-30,Bronze Medal,3,TAPPER Naya,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1994-08-03,1950505
+2024-07-30,Bronze Medal,3,SEDRICK Alex,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1998-02-28,1950502
+2024-07-30,Bronze Medal,3,OLSEN Alena,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1995-12-06,1950499
+2024-07-30,Bronze Medal,3,ROVETTI Steph,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1991-10-02,1950501
+2024-07-30,Bronze Medal,3,LEVY Sarah,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1995-12-27,1950496
+2024-07-30,Bronze Medal,3,KIRSHE Kristi,Female,United States,USA,United States,United States of America,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,1994-10-14,1950495
+2024-07-30,Gold Medal,1,ARUNOVIC Zorana,Female,Serbia,SRB,Serbia,Serbia,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,1986-11-22,1956347
+2024-07-30,Gold Medal,1,MIKEC Damir,Male,Serbia,SRB,Serbia,Serbia,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,1984-03-31,1956356
+2024-07-30,Silver Medal,2,TARHAN Sevval Ilayda,Female,Türkiye,TUR,Türkiye,Türkiye 2,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,2000-02-04,1564886
+2024-07-30,Silver Medal,2,DIKEC Yusuf,Male,Türkiye,TUR,Türkiye,Türkiye 2,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,1973-01-01,1564893
+2024-07-30,Bronze Medal,3,BHAKER Manu,Female,India,IND,India,India 1,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000200--,2002-02-18,1538159
+2024-07-30,Bronze Medal,3,SINGH Sarabjot,Male,India,IND,India,India 1,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000200--,2001-09-30,1545464
+2024-07-30,Gold Medal,1,,,,,,Great Britain,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,,
+2024-07-30,Silver Medal,2,,,,,,United States of America,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,,
+2024-07-30,Bronze Medal,3,,,,,,Australia,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,,
+2024-07-30,Gold Medal,1,WANG Chuqin,Male,China,CHN,China,WANG Chuqin / SUN Yingsha,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,2000-05-11,1902301
+2024-07-30,Gold Medal,1,SUN Yingsha,Female,China,CHN,China,WANG Chuqin / SUN Yingsha,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,2000-11-04,1902313
+2024-07-30,Silver Medal,2,RI Jong Sik,Male,DPR Korea,PRK,DPR Korea,RI Jong Sik / KIM Kum Yong,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,2000-02-14,1980143
+2024-07-30,Silver Medal,2,KIM Kum Yong,Female,DPR Korea,PRK,DPR Korea,RI Jong Sik / KIM Kum Yong,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,2001-08-17,1980142
+2024-07-30,Bronze Medal,3,LIM Jonghoon,Male,Korea,KOR,Korea,LIM Jonghoon / SHIN Yubin,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000200--,1997-01-21,1936429
+2024-07-30,Bronze Medal,3,SHIN Yubin,Female,Korea,KOR,Korea,LIM Jonghoon / SHIN Yubin,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000200--,2004-07-05,1936435
